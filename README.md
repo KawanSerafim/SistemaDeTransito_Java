@@ -20,3 +20,13 @@
     -  3 - Consulta por estatísticas de acidentes.	
     -  4 - Acidentes acima da média das 10 cidades.   
     -  9 - Finaliza. 		   		              
+
+## Autor
+
+<div align="center">
+
+
+Feito por Kawan Serafim de Souza. Entre em contato!
+
+[![Gmail Badge](https://img.shields.io/badge/-kawanserafim.souza.ofc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoantenor31.com)](mailto:kawanserafim.souza.ofc.com)
+</div>
