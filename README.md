@@ -24,9 +24,13 @@
 ## Autor
 
 <div align="center">
-
+<a href="https://www.linkedin.com/in/kawan-serafim-de-souza">
+<img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQExDDj-gmZ1dg/profile-displayphoto-shrink_200_200/0/1699143746645?e=1705536000&v=beta&t=hNPXLy1IAQe8nFmZfjzJLVikQl1T4Av3fn2WfSX_ljU" width="100px;" alt="foto do autor"/>
+ <br />
+ <sub><b>Kawan Serafim De Souza</b></sub></a> <a href="https://www.linkedin.com/in/kawan-serafim-de-souza" title="Linkedin"> 🧑🏾‍💻</a>
 
 Feito por Kawan Serafim de Souza. Entre em contato!
 
+[![Linkedin Badge](https://img.shields.io/badge/-Kawan_Serafim_De_Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawan-serafim-de-souza)](https://www.linkedin.com/in/kawan-serafim-de-souza)
 [![Gmail Badge](https://img.shields.io/badge/-kawanserafim.souza.ofc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoantenor31.com)](mailto:kawanserafim.souza.ofc.com)
 </div>
